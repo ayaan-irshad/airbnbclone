@@ -1,0 +1,12 @@
+.navbar{
+    position: absolute;
+    width: 80%;
+    height: 20vh;
+    background-color: aquamarine;
+}
+
+.nav-header {
+    font-size: 3rerm;
+    font-family: 'Poppins', sans-serif;
+
+}
